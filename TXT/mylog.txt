@@ -9,5 +9,13 @@ ZCZC W00 100 L02 Wednesday's synchronous class
 ZCZC W00 60 L10 Work on Week 00's assignments (reading assignment)
 ZCZC W00 30 L05 SEB set up and try dummy quiz
 ZCZC W00 60 L06 Study for weekly quiz
-ZCZC W00 20 L05 Quiz W00 dan preparation
+ZCZC W00 20 L05 Quiz dan preparation
 ZCZC W01 100 L02 Monday's synchronous class
+ZCZC W01 100 LO2 Wednesday's synchronous class
+ZCZC W01 150 L11 Work on Week 01's assignments (set up a virtual debian guest, GIT, GITHUB, and SSH, etc.)
+ZCZC W01 60 L11 Work on Week 01's assignments (GSGS and read)
+ZCZC W01 20 L01 SCELE related (Week 01's pop quiz)
+ZCZC W01 90 L64 Give some help to friends (Week 01's assignments)
+ZCZC W01 60 L06 Study for weekly quiz
+ZCZC W01 30 L05 Quiz and preparation
+ZCZC W01 25 Update links.md, index.md and mylog.txt
