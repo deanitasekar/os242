@@ -20,9 +20,9 @@ sidebar:
         url: "https://deanitasekar.github.io/os242/LINKS/"
 ---
 
-## OS242
+## OS242 Repository Overview
 
-Welcome to the OS242 project page!
+Welcome to the OS242 project page! Below are some important resources related to this project:
 
 | Log             | GitHub                                         | Links  |
 |-----------------|------------------------------------------------|--------|
