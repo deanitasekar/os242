@@ -19,3 +19,12 @@ ZCZC W01 90 L64 Give some help to friends (Week 01's assignments)
 ZCZC W01 60 L06 Study for weekly quiz
 ZCZC W01 30 L05 Quiz and preparation
 ZCZC W01 25 Update links.md, index.md and mylog.txt
+ZCZC W02 100 L02 Monday's synchronous class
+ZCZC W02 100 L02 Wednesday's synchronous class
+ZCZC W02 90 L12 Work on Week 02's assignments (reading and watching assignment)
+ZCZC W02 75 L64 Give some help to friends (Week 02's assignments)
+ZCZC W02 75 L12 Work on Week 02's assignments (links, SSH, bash, regex, SED, etc.)
+ZCZC W02 20 git and GitHub related
+ZCZC W02 60 L06 Study for weekly quiz
+ZCZC W02 30 L05 Quiz and preparation
+ZCZC W02 25 Update links.md, index.md and mylog.txt
