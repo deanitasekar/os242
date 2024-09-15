@@ -8,8 +8,10 @@ permalink: LINKS/
 ## WEEK 00
 
 1. [About Operating Systems](https://www.youtube.com/watch?v=GjNp0bBrjmU)
+
 Introduction the basic concepts of operating system (OS) with its role as the intermediary between the user, hardware, and software applications.
 2. [History of Operating Systems](https://www.youtube.com/watch?v=e-YI-fjI8Nc)
+
 The evolution of operating systems, from the early batch processing systems to modern multi0user. Trace the developmnet of key OS features such as time-sharing, virtual memory, and graphical user interfaces (GUIs).
 
 ## WEEK 01
