@@ -37,3 +37,17 @@ Comprehensive introduction to C programming, focus on embedded systems with esse
 
 4. [Introduction to Cyber Security](https://www.youtube.com/watch?v=U_P23SqJaDc)<br>
 Foundational overview of cybersecurity, such as the importance of protecting systems, networks, and data from cyber threats. 
+
+## WEEK 03
+
+1. [Introduction to File Systems](https://www.ufsexplorer.com/articles/file-systems-basics/)<br>
+Detail summary of what a file system is, give a solid foundational knowledge before diving into more advanced topics. 
+
+2. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+Brief explanation about file systems, their types, advantages, and disadvantages; give comprehensive overview of different file system types.
+
+3. [FAT32 vs exFAT vs NTFS - Windows File Systems](https://www.youtube.com/watch?v=bYjQakUxeVY)<br>
+The difference types of file systems used in Windows, such as FAT32, exFAT, and NTFS, along with their pros and cons.
+
+4. [FUSE - what? why? where?](https://www.youtube.com/watch?v=1zvOdR02hk4)<br>
+Explores use cases, advantages, and technical mechanics behind FUSE.

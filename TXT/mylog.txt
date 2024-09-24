@@ -10,6 +10,7 @@ ZCZC W00 60 L10 Work on Week 00's assignments (reading assignment)
 ZCZC W00 30 L05 SEB set up and try dummy quiz
 ZCZC W00 60 L06 Study for weekly quiz
 ZCZC W00 20 L05 Quiz dan preparation
+ZCZC W01 20 L01 SCELE related (Week 00's pop quiz)
 ZCZC W01 100 L02 Monday's synchronous class
 ZCZC W01 100 LO2 Wednesday's synchronous class
 ZCZC W01 150 L11 Work on Week 01's assignments (set up a virtual debian guest, GIT, GITHUB, and SSH, etc.)
@@ -18,13 +19,22 @@ ZCZC W01 20 L01 SCELE related (Week 01's pop quiz)
 ZCZC W01 90 L64 Give some help to friends (Week 01's assignments)
 ZCZC W01 60 L06 Study for weekly quiz
 ZCZC W01 30 L05 Quiz and preparation
-ZCZC W01 25 Update links.md, index.md and mylog.txt
+ZCZC W01 25 L11 Work on Week 01's assignments (update links.md, index.md and mylog.txt)
 ZCZC W02 100 L02 Monday's synchronous class
 ZCZC W02 100 L02 Wednesday's synchronous class
 ZCZC W02 90 L12 Work on Week 02's assignments (reading and watching assignment)
 ZCZC W02 75 L64 Give some help to friends (Week 02's assignments)
 ZCZC W02 75 L12 Work on Week 02's assignments (links, SSH, bash, regex, SED, etc.)
-ZCZC W02 20 git and GitHub related
+ZCZC W02 20 L03 Git and GitHub related
 ZCZC W02 60 L06 Study for weekly quiz
 ZCZC W02 30 L05 Quiz and preparation
-ZCZC W02 25 Update links.md and mylog.txt
+ZCZC W02 20 L01 SCELE related (Week 02's pop quiz)
+ZCZC W02 25 L12 Work on Week 02's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W03 100 L02 Wednesday's synchronous class
+ZCZC W03 100 L02 Monday's synchronous class
+ZCZC W03 90 L13 Work on Week 03's assignments (reading assignment)
+ZCZC W03 120 L13 Work on Week 03's assignments (SSH, GPG, extra virtual disk, etc.)
+ZCZC W03 20 L03 Git and GitHub related
+ZCZC W03 60 L64 Give some help to friends (Week 03's assignments)
+ZCZC W03 30 L01 SCELE related (Week 03's pop quiz)
+ZCZC W03 20 L13 Work on Week 03's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
