@@ -46,8 +46,19 @@ Detail summary of what a file system is, give a solid foundational knowledge bef
 2. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
 Brief explanation about file systems, their types, advantages, and disadvantages; give comprehensive overview of different file system types.
 
-3. [FAT32 vs exFAT vs NTFS - Windows File Systems](https://www.youtube.com/watch?v=bYjQakUxeVY)<br>
+3. [FAT32 vs exFAT vs NTFS](https://www.youtube.com/watch?v=bYjQakUxeVY)<br>
 The difference types of file systems used in Windows, such as FAT32, exFAT, and NTFS, along with their pros and cons.
 
-4. [FUSE - what? why? where?](https://www.youtube.com/watch?v=1zvOdR02hk4)<br>
+4. [FUSE](https://www.youtube.com/watch?v=1zvOdR02hk4)<br>
 Explores use cases, advantages, and technical mechanics behind FUSE.
+
+## WEEK 04
+
+1. [C Memory Addresses](https://www.youtube.com/watch?v=1KVpi0VN82E)<br>
+Foundational direct manipulation of memory addresses with pointers in C programming.
+
+2. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>
+The differences between dynamic and static linking in C, explains how C programs interact with external librariws and how different linking methods impact program execution & memory usage.
+
+3. [Big Endian vs Little Endian](https://youtu.be/jhErugDB-34?si=8tXyjXrA9khKEs2a)<br>
+The concept of endianness, which refers to the way multi-byte daya is stored in memory. 

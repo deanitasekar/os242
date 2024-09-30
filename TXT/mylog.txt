@@ -38,3 +38,13 @@ ZCZC W03 20 L03 Git and GitHub related
 ZCZC W03 60 L64 Give some help to friends (Week 03's assignments)
 ZCZC W03 30 L01 SCELE related (Week 03's pop quiz)
 ZCZC W03 20 L13 Work on Week 03's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W04 100 L02 Wednesday's synchronous class
+ZCZC W04 100 L02 Monday's asynchronous class (Pak M. Anwar Ma'sum's video)
+ZCZC W04 75 L14 Work on Week 04's assignments (reading assignment)
+ZCZC W04 90 L14 Work on Week 04's assignments (SSH, GPG, TLPI, etc.)
+ZCZC W04 20 L03 Git and GitHub related
+ZCZC W04 30 L64 Give some help to friends (Week 04's assignments)
+ZCZC W04 20 L01 SCELE related (Week 04's pop quiz)
+ZCZC W04 60 L06 Study for weekly quiz
+ZCZC W04 30 L05 Quiz and preparation
+ZCZC W04 20 L13 Work on Week 04's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
