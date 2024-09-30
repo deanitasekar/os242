@@ -58,7 +58,7 @@ Explores use cases, advantages, and technical mechanics behind FUSE.
 Foundational direct manipulation of memory addresses with pointers in C programming.
 
 2. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>
-The differences between dynamic and static linking in C, explains how C programs interact with external librariws and how different linking methods impact program execution & memory usage.
+The differences between dynamic and static linking in C, explain how C programs interact with external libraries and how different linking methods impact program execution & memory usage.
 
 3. [Big Endian vs Little Endian](https://youtu.be/jhErugDB-34?si=8tXyjXrA9khKEs2a)<br>
 The concept of endianness, which refers to the way multi-byte daya is stored in memory. 
