@@ -62,3 +62,17 @@ The differences between dynamic and static linking in C, explain how C programs 
 
 3. [Big Endian vs Little Endian](https://youtu.be/jhErugDB-34?si=8tXyjXrA9khKEs2a)<br>
 The concept of endianness, which refers to the way multi-byte daya is stored in memory. 
+
+## WEEK 05
+
+1. [Paging](https://wiki.osdev.org/Paging)<br>
+The concept of paging's role in memory management with its benefit, also discusses page faults.
+
+2. [Page Table Entries in Page Table](https://www.geeksforgeeks.org/page-table-entries-in-page-table/)<br>
+Detailed explanation of how page table entries (PTEs) map virtual memory to physical memory.
+
+3. [How Computer Memory Works](https://www.youtube.com/watch?v=p3q5zWCw8J4&feature=youtu.be)<br>
+Explain how computer memory operates, cover various components like RAM, hard drives, and the degradation.
+
+4. [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
+Explain cache memory, its importance in computer systems, and how it improves processing speed by storing frequently accessed data.

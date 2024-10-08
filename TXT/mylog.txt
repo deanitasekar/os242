@@ -48,3 +48,13 @@ ZCZC W04 20 L01 SCELE related (Week 04's pop quiz)
 ZCZC W04 60 L06 Study for weekly quiz
 ZCZC W04 30 L05 Quiz and preparation
 ZCZC W04 20 L13 Work on Week 04's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W05 100 L02 Wednesday's synchronous class
+ZCZC W05 100 L02 Monday's synchronous class
+ZCZC W05 90 L15 Work on Week 04's assignments (reading assignment)
+ZCZC W05 120 L15 Work on Week 04's assignments (SSH, GPG, memory, etc.)
+ZCZC W05 20 L03 Git and GitHub related
+ZCZC W05 45 L64 Give some help to friends (Week 05's assignments)
+ZCZC W05 30 L01 SCELE related (Week 05's pop quiz)
+ZCZC W05 30 L06 Study for weekly quiz
+ZCZC W05 30 L05 Quiz and preparation
+ZCZC W05 20 L13 Work on Week 05's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
