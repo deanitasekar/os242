@@ -76,3 +76,17 @@ Explain how computer memory operates, cover various components like RAM, hard dr
 
 4. [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
 Explain cache memory, its importance in computer systems, and how it improves processing speed by storing frequently accessed data.
+
+## WEEK 06
+
+1.[Fork() in C Programming Language](https://www.webscale.com/engineering-education/)<br>
+A foundational understanding of the fork() function in Unix-like systems. It shows how fork() duplicates the parent process to create a child process, fundamental for handling processes in Linux.
+
+2.[Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+Process scheduling with clear illustrations to managing processes efficiently. It covers alogorithms like First-Come, First-Serve (FCFS) and Round Robin (RR), optimize CPU usage and improve multitasking.
+
+3.[What is Inter Process Communication?](https://www.javatpoint.com/what-is-inter-process-communication)<br>
+Inter Process Communication (IPC), a key topic for managing and synchronizing multiple processes. It includes diagrams and explanations on methods like message passing and shared memory, making it useful for understanding how processes can communicate and work together within an Operating Systems.
+
+4.[Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)
+Differentiates between concurrency (multiple tasks starting and stopping) and parallelism (tasks running simultaneously), helps to studying operating system efficiency and performance management.
