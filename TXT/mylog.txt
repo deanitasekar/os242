@@ -47,7 +47,7 @@ ZCZC W04 30 L64 Give some help to friends (Week 04's assignments)
 ZCZC W04 20 L01 SCELE related (Week 04's pop quiz)
 ZCZC W04 60 L06 Study for weekly quiz
 ZCZC W04 30 L05 Quiz and preparation
-ZCZC W04 20 L13 Work on Week 04's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W04 20 L14 Work on Week 04's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
 ZCZC W05 100 L02 Wednesday's synchronous class
 ZCZC W05 100 L02 Monday's synchronous class
 ZCZC W05 90 L15 Work on Week 05's assignments (reading assignment)
@@ -57,7 +57,7 @@ ZCZC W05 45 L64 Give some help to friends (Week 05's assignments)
 ZCZC W05 30 L01 SCELE related (Week 05's pop quiz)
 ZCZC W05 30 L06 Study for weekly quiz
 ZCZC W05 30 L05 Quiz and preparation
-ZCZC W05 20 L13 Work on Week 05's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W05 20 L15 Work on Week 05's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
 ZCZC W06 100 L02 Wednesday's synchronous class
 ZCZC W06 100 L02 Monday's synchronous class
 ZCZC W06 60 L16 Work on Week 06's assignments (reading assignment)
@@ -65,4 +65,12 @@ ZCZC W06 90 L16 Work on Week 06's assignments (fork, shared memory, etc.)
 ZCZC W06 30 L03 Git and GitHub related
 ZCZC W06 30 L64 Give some help to friends (Week 06's assignments)
 ZCZC W06 120 L01 SCELE related (Week 06's pop quiz)
-ZCZC W06 20 L13 Work on Week 05's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W06 20 L16 Work on Week 06's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W07 100 L02 Wednesday's synchronous class
+ZCZC W07 100 L02 Monday's synchronous class
+ZCZC W07 120 L17 Work on Week 07's assignments (reading assignment)
+ZCZC W07 90 L17 Work on Week 07's assignments (synchronization, etc.)
+ZCZC W07 30 L03 Git and GitHub related
+ZCZC W07 45 L64 Give some help to friends (Week 07's assignments)
+ZCZC W07 90 L01 SCELE related (Week 07's pop quiz)
+ZCZC W07 20 L17 Work on Week 07's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)

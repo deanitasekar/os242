@@ -86,7 +86,20 @@ A foundational understanding of the fork() function in Unix-like systems. It sho
 Process scheduling with clear illustrations to managing processes efficiently. It covers alogorithms like First-Come, First-Serve (FCFS) and Round Robin (RR), optimize CPU usage and improve multitasking.
 
 3. [What is Inter Process Communication?](https://www.javatpoint.com/what-is-inter-process-communication)<br>
-Inter Process Communication (IPC), a key topic for managing and synchronizing multiple processes. It includes diagrams and explanations on methods like message passing and shared memory, making it useful for understanding how processes can communicate and work together within an Operating Systems.
+Inter Process Communication (IPC), a key topic for managing and synchronizing multiple processes; includes diagrams and explanations on methods like message passing and shared memory, making it useful for understanding how processes can communicate and work together within an Operating Systems.
 
-4. [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)
+4. [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)<br>
 Differentiates between concurrency (multiple tasks starting and stopping) and parallelism (tasks running simultaneously), helps to studying operating system efficiency and performance management.
+
+## WEEK 07
+
+1. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+In-depth overview of process synchronization, cover both fundamental and detailed aspects.
+
+2. [Deadlock, Livelock and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
+Three scenarios where a process may face issues while waiting for resources: deadlock, livelock, and starvation; explain which processes fail to proceed and how each scenario differs.
+
+3. [Peterson’s Problem](https://www.tutorialspoint.com/peterson-s-problem)<br>
+A classic synchronization solution for two-process systems, include code syntax and discuss limitations.
+
+
