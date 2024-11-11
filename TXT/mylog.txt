@@ -74,3 +74,13 @@ ZCZC W07 30 L03 Git and GitHub related
 ZCZC W07 45 L64 Give some help to friends (Week 07's assignments)
 ZCZC W07 90 L01 SCELE related (Week 07's pop quiz)
 ZCZC W07 20 L17 Work on Week 07's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)
+ZCZC W08 100 L02 Wednesday's synchronous class
+ZCZC W08 100 L02 Monday's synchronous class
+ZCZC W08 120 L18 Work on Week 08's assignments (reading assignment)
+ZCZC W08 150 L15 Work on Week 08's assignments (LFS, etc.)
+ZCZC W08 15 L03 Git and GitHub related
+ZCZC W08 90 L64 Give some help to friends (Week 08's assignments) 
+ZCZC W08 30 L01 SCELE related (Week 08's pop quiz)
+ZCZC W08 30 L06 Study for weekly quiz
+ZCZC W08 30 L05 Quiz and preparation
+ZCZC W08 20 L18 Work on Week 08's assignments (update links.md, myupdate.txt, mylog.txt, and myrank.txt)

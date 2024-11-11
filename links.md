@@ -102,4 +102,13 @@ Three scenarios where a process may face issues while waiting for resources: dea
 3. [Peterson’s Problem](https://www.tutorialspoint.com/peterson-s-problem)<br>
 A classic synchronization solution for two-process systems, include code syntax and discuss limitations.
 
+## WEEK 08
 
+1. [What Is Linux LFS (Linux from Scratch)](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026)<br>
+A general overview of the Linux From Scratch (LFS) project, offering detailed insights into what LFS is, its purpose, and the main objectives behind building a custom Linux system from the ground up.
+
+2. [Kernotex’s YouTube LFS 12.2 Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
+Guide on building Linux From Scratch (LFS), providing a detailed step-by-step tutorial that ensures users follow the correct procedures to create a fully functional Linux system.
+
+3. [Multiple-Processor Process Scheduling in OS](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+A detail explanation of how operating systems manage process scheduling when multiple processors are involved, discuss the various strategies and techniques used to efficiently allocate tasks across multiple CPU cores and optimize overall system performance.
